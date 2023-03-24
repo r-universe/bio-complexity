@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bc3net"]
+	path = bc3net
+	url = https://github.com/cran/bc3net
+	shallow = true
+	registered = true
